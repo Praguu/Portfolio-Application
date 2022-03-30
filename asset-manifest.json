@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Application/static/css/main.5d7cd4eb.css",
+    "main.js": "/Portfolio-Application/static/js/main.15330dba.js",
+    "static/media/portfolio1.jpg": "/Portfolio-Application/static/media/portfolio1.e838b0e587fb8098f966.jpg",
+    "static/media/Tour.png": "/Portfolio-Application/static/media/Tour.04a17e05a6dc2724a344.png",
+    "static/media/CV.pdf": "/Portfolio-Application/static/media/CV.3d5b5285d347dcdca5ee.pdf",
+    "static/media/ME.jpg": "/Portfolio-Application/static/media/ME.a35946ef3ccace7edd8f.jpg",
+    "static/media/pizza-img.jpeg": "/Portfolio-Application/static/media/pizza-img.961b908f79aafac8761b.jpeg",
+    "index.html": "/Portfolio-Application/index.html",
+    "main.5d7cd4eb.css.map": "/Portfolio-Application/static/css/main.5d7cd4eb.css.map",
+    "main.15330dba.js.map": "/Portfolio-Application/static/js/main.15330dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d7cd4eb.css",
+    "static/js/main.15330dba.js"
+  ]
+}
