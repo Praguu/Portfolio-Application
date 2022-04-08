@@ -37,7 +37,9 @@ const About = () => {
 
                         </div>
                         <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos delectus minima explicabo? Itaque voluptas, neque est assumenda voluptate laboriosam quibusdam quidem eos laudantium harum consequatur nisi ab provident nobis expedita.
+                           I am Pragya Sharma and I am final year student with Comuter Science and Engineering. My technical skills are Java,Html,CSS,javascript,Bootstrap,
+                             Reactjs and  i have sevral projects in these domains.
+                             
                         </p>
                         <a href='#contact' className='btn btn-primary'>Let's talk</a>
         </div>
