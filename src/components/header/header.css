@@ -10,6 +10,31 @@ header{
     height: 100%;
     position: relative;
 }
+.profile-details-name{
+    font-size: 24px;
+    font-family: 'Poppins SemiBold';
+}
+.primary-text{
+    color: (--white);
+}
+.highlighted-text{
+    color:red;
+}
+.profile-role-tagline{
+    font-size: 19px;
+    margin: 5px 0 0 0;
+    font-family: "Poppins Light";
+}
+
+.profile-details-role{
+    display: flex;
+    flex-direction: column;
+    margin: 14px 0 24px 0;
+}
+.profile-details-role h1{
+    font-size: 40px;
+    font-family: cursive;
+}
 
 /* ======CTA===== */
 
